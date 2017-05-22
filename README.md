@@ -4,5 +4,7 @@ A curated list of awesome Machine Learning Papers, Repositories. Inspired by awe
 
 ## NIPS
 ### 2016
+This lists is based on [[Project] All Code Implementations for NIPS 2016 papers](https://www.reddit.com/r/MachineLearning/comments/5hwqeb/project_all_code_implementations_for_nips_2016/)
+
 - [Using Fast Weights to Attend to the Recent Past](https://github.com/ajarai/fast-weights)
-    - Jimmy Ba, Geoffrey Hinton, Volodymyr Mnih, Joel Z. Leibo, Catalin Ionescu, [[Paper]](https://arxiv.org/abs/1610.06258)
+    - Jimmy Ba, Geoffrey Hinton, Volodymyr Mnih, Joel Z. Leibo, Catalin Ionescu, [Paper](https://arxiv.org/abs/1610.06258)
